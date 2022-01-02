@@ -2,7 +2,7 @@
 
 - Atualmente em imersão com os estudos.
 - Aprendendo Html, Css, Javascript, Jquery, Bootstrap, React, Node Js, Mongo DB e Firebase.
-- Estou a procura de uma oportunidade na área.
+- Em busca de uma oportunidade na área.
 
 <div align="center">
   <a href="https://github.com/pauloguedes96/">
