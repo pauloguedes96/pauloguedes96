@@ -1,6 +1,6 @@
 # Olá, Bem Vindo! 👋
 
-<br /> :man_technologist: &nbsp; Atualmente em imersão com os estudos.
+<br /> 👨🏽‍💻 &nbsp; Atualmente em imersão com os estudos.
 <br /> :blue_book: &nbsp; Estudando Html, Css, Javascript, Jquery, Bootstrap, React, Node Js, Mongo DB e Firebase.
 <br /> :briefcase: &nbsp; Em busca de uma oportunidade na área.
 
