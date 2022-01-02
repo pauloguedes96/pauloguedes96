@@ -1,13 +1,8 @@
 # Olá, aqui você encontra os meus projetos 👋
 
-- 🔭 Atualmente, estou trabalhando em ...
-- 🌱 Atualmente, estou aprendendo ...
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
+- Atualmente em imersão com os estudos.
+- Aprendendo Html, Css, Javascript, Jquery, Bootstrap, React, Node Js, Mongo DB e Firebase.
+- Estou a procura de uma oportunidade na área.
 
 <div align="center">
   <a href="https://github.com/pauloguedes96/">
@@ -17,9 +12,9 @@
   
   ## Skills
 <div style="display: inline_block" >
-  <img align="center" alt=" " width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt=" " width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt=" " width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt=" " width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt=" " width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt=" " width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   ## Contato
