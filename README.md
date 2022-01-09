@@ -1,7 +1,7 @@
 # Olá, Bem Vindo! 👋
 
 <br /> 👨🏽‍💻 &nbsp; Atualmente em imersão com os estudos.
-<br /> :blue_book: &nbsp; Estudando Html, Css, Javascript, Jquery, Bootstrap, React, Node Js, Mongo DB e Firebase.
+<br /> :blue_book: &nbsp; Estudando Javascript, React JS, Node JS, HTML e CSS.
 <br /> :briefcase: &nbsp; Em busca de uma oportunidade na área.
 
 <div align="center">
