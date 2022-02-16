@@ -13,8 +13,11 @@
   ## Skills
 <div style="display: inline_block" >
   <img align="center" alt=" " width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt=" " width="33" src="https://img.icons8.com/fluency/48/000000/node-js.png">
+      <img align="center" alt=" " width="33" src="https://img.icons8.com/office/80/000000/react.png">
   <img align="center" alt=" " width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt=" " width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt=" " width="33" src="https://img.icons8.com/color/96/000000/git.png">
 </div>
   
   ## Contato
