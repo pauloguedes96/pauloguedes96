@@ -1,8 +1,8 @@
 # Olá, Bem Vindo! 👋
 
-<br /> 👨🏽‍💻 &nbsp; Atualmente em imersão com os estudos.
-<br /> :blue_book: &nbsp; Estudando Javascript, React JS, Node JS, HTML e CSS.
-<br /> :briefcase: &nbsp; Em busca de uma oportunidade na área.
+<br /> 👨🏽‍💻 &nbsp; Em constante evolução.
+<br /> :blue_book: &nbsp; Javascript, React JS, Node JS, Git, CSS e HTML .
+<br /> :briefcase: &nbsp; Em busca de uma oportunidade.
 
 <div align="center">
   <a href="https://github.com/pauloguedes96/">
