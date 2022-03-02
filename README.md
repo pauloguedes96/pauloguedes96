@@ -2,7 +2,7 @@
 
 <br /> 👨🏽‍💻 &nbsp; Em constante evolução.
 <br /> :blue_book: &nbsp; Javascript, React JS, Node JS, Git, CSS e HTML .
-<br /> :briefcase: &nbsp; Em busca de uma oportunidade.
+<br /> :briefcase: &nbsp; Aberto a oportunidades.
 
 <div align="center">
   <a href="https://github.com/pauloguedes96/">
