@@ -1,7 +1,7 @@
 # Olá, Bem Vindo! 👋
 
 <br /> 👨🏽‍💻 &nbsp; Em constante evolução.
-<br /> :blue_book: &nbsp; Javascript, React JS, Node JS, Git, CSS e HTML .
+<br /> :blue_book: &nbsp; Javascript, React JS, Node JS, Git, CSS e HTML.
 <br /> :briefcase: &nbsp; Aberto a oportunidades.
 
 <div align="center">
