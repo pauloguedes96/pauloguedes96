@@ -17,6 +17,7 @@
       <img align="center" alt=" " width="33" src="https://img.icons8.com/office/80/000000/react.png">
   <img align="center" alt=" " width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt=" " width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt=" " width="33" src="https://www.felipesl.com/images/icons/bootstrap.svg">
     <img align="center" alt=" " width="33" src="https://img.icons8.com/color/96/000000/git.png">
 </div>
   
