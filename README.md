@@ -3,6 +3,7 @@
 <br /> 👨🏽‍💻 &nbsp; Em constante evolução.
 <br /> :blue_book: &nbsp; Javascript, React JS, Node JS, Git, Bootstrap, CSS e HTML.
 <br /> :briefcase: &nbsp; Aberto a oportunidades.
+<br /> 🌍 &nbsp; www.connecttweb.com
 
 <div align="center">
   <a href="https://github.com/pauloguedes96/">
