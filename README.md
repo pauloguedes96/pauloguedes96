@@ -3,7 +3,7 @@
 <br /> 👨🏽‍💻 &nbsp; Em constante evolução.
 <br /> :blue_book: &nbsp; React.js, Node.js, Rest API, Git, Bootstrap.
 <br /> :briefcase: &nbsp; Aberto a oportunidades.
-<br /> 🌍 &nbsp; connecttweb.netlify.app
+<br /> 🌍 &nbsp; [connecttweb.netlify.app](https://connecttweb.netlify.app/)
 
 <div align="center">
   <a href="https://github.com/pauloguedes96/">
